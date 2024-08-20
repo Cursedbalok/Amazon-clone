@@ -1,2 +1,4 @@
 # Amazonclone
-This is my first Git Responsitory
+This is my first project
+<br>
+Author - Mohammad Emon
